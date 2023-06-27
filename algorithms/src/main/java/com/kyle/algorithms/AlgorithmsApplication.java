@@ -17,5 +17,6 @@ public class AlgorithmsApplication {
 		list1.add(-1);
 		list1.add(-1);
 		plusMinus.algo(list1);
+		Staircase.algo(4);
 	}
 }
